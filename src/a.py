@@ -6,7 +6,7 @@ import sys
 # User configuration
 sender_email = sys.argv[1]
 receiver_email = 'ashish.karan96@gmail.com'
-password = 'robelinda2'
+password = '#######'
 passwordTO="Your new password:{0}".format(sys.argv[2])
 
 
